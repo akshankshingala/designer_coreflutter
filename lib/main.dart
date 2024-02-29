@@ -20,61 +20,61 @@ void main() {
         body: Center(
           child: RichText(
             text: const TextSpan(
-              text: "🍎 A p p l e\n\n",
+              text: "🍎 A p p l e\n",
               style: TextStyle(
                   fontWeight: FontWeight.bold, color: Colors.red, fontSize: 30),
               children: [
                 TextSpan(
-                  text: "🍇  G r e p s\n\n",
+                  text: "🍇  G r e p s\n",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFFe040fe),
                       fontSize: 30),
                 ),
                 TextSpan(
-                  text: "🍒  c h e r r y\n\n",
+                  text: "🍒  c h e r r y\n",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF9c27b1),
                       fontSize: 30),
                 ),
                 TextSpan(
-                  text: "🍓  s t r a w b e r r y\n\n",
+                  text: "🍓  s t r a w b e r r y\n",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFFe91e63),
                       fontSize: 30),
                 ),
                 TextSpan(
-                  text: "🥭  m a n g o\n\n",
+                  text: "🥭  m a n g o\n",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFFff9800),
                       fontSize: 30),
                 ),
                 TextSpan(
-                  text: "🍍  p i n e a p p l e\n\n",
+                  text: "🍍  p i n e a p p l e\n",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF4caf50),
                       fontSize: 30),
                 ),
                 TextSpan(
-                  text: "🍋  L e m o n\n\n",
+                  text: "🍋  L e m o n\n",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFFffc107),
                       fontSize: 30),
                 ),
                 TextSpan(
-                  text: "🍉  W a t e r m e l o n e\n\n",
+                  text: "🍉  W a t e r m e l o n e\n",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF8bc34a),
                       fontSize: 30),
                 ),
                 TextSpan(
-                  text: "🥥  C o c o n u t\n\n",
+                  text: "🥥  C o c o n u t\n",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF795548),
